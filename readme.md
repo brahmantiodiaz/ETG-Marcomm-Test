@@ -4,7 +4,7 @@
 
 1. Buat tampilan seperti pada gambar terlampir
 
-note : rapihkan style agar tampilan sama gambar terlampir (boleh menggunakan bootstrap atau style css pada file assets/css/style.css)
+    note : rapihkan style agar tampilan sama gambar terlampir (boleh menggunakan bootstrap atau style css pada file assets/css/style.css)
 
 2. Gunakan api dengan method get  untuk mengambil data dengan endpoint berikut
 note : fetch api di atas menggunakan javascript atau jquery (gunakan yang paling nyaman) dan semua script ditulis di assets/js/index.js
@@ -21,4 +21,4 @@ https://new.xsis.co.id/wp-json/wp/v2/jobpost_category
 
 4. Aktifkan fitur search
 
-note : parameter search dapat digunakan pada endpoint <https://new.xsis.co.id/wp-json/wp/v2/jobpost>
+    note : parameter search dapat digunakan pada endpoint <https://new.xsis.co.id/wp-json/wp/v2/jobpost>
