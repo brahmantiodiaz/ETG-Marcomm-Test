@@ -24,4 +24,4 @@ https://new.xsis.co.id/wp-json/wp/v2/jobpost_location
 
 4. Aktifkan fitur search
 
-* parameter search dapat digunakan pada end point <https://new.xsis.co.id/wp-json/wp/v2/jobpost>
+* parameter search dapat digunakan pada endpoint <https://new.xsis.co.id/wp-json/wp/v2/jobpost>
