@@ -10,13 +10,13 @@
 
     note : fetch api di atas menggunakan javascript atau jquery (gunakan yang paling nyaman) dan semua script ditulis di assets/js/index.js
 
- ```bash
-https://new.xsis.co.id/wp-json/wp/v2/jobpost
-```
+     ```bash
+    https://new.xsis.co.id/wp-json/wp/v2/jobpost
+    ```
 
- ```bash
-https://new.xsis.co.id/wp-json/wp/v2/jobpost_category
-```
+    ```bash
+    https://new.xsis.co.id/wp-json/wp/v2/jobpost_category
+    ```
 
 3. Aktifkan fitur multiple choice
 
